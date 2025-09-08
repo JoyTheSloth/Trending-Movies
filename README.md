@@ -1,6 +1,10 @@
 
+
 ````markdown
 ✨ **Trending Movies Website** is a modern web application that helps users discover the latest and most popular movies in real-time. Built with **React.js**, **Appwrite**, and **Tailwind CSS**, it integrates the **TMDB API** to provide accurate and updated movie data.
+<img width="1894" height="985" alt="image" src="https://github.com/user-attachments/assets/c1d98dbd-621d-4ac6-b399-f6204138bb10" />
+<img width="1892" height="377" alt="image" src="https://github.com/user-attachments/assets/9cf89690-552b-42b6-9a20-3c71a013ef11" />
+<img width="1888" height="967" alt="image" src="https://github.com/user-attachments/assets/52d457d4-ce80-4f11-a744-66450ebcc6b6" />
 
 Users can:
 
@@ -103,7 +107,4 @@ Now, open **[http://localhost:5173](http://localhost:5173)** in your browser to 
 
 ---
 
-```
-
-Do you want me to also **add a Deployment section** (for Netlify/Vercel setup) so people can host your app easily?
 ```
